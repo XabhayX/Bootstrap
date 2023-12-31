@@ -1,0 +1,8 @@
+breadcrumbs = path u have walked upon
+
+aria-label = icon/img/link ko text provide krata hai
+
+aria-current = current page
+
+ARIA =  accessible rich internet applications,  set of attributed for PwD spclly.  info for things like screen readers in navigating web pages.
+this has many attributes
